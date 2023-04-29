@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "rox-ast",
+    "rox-interpreter",
+]

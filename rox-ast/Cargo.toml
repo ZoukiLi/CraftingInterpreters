@@ -1,0 +1,13 @@
+[package]
+name = "rox-ast"
+version = "0.1.0"
+authors = ["ZoukiRi"]
+edition = "2021"
+license = "MIT"
+description = "AST library for the rox programming language."
+repository = "https://github.com/ZoukiLi/CraftingInterpreters/"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
